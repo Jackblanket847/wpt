@@ -1,0 +1,1 @@
+[![All Tests: Safari Technology Preview](https://github.com/web-platform-tests/wpt/actions/workflows/safari_technology_preview.yml/badge.svg?branch=master)](https://github.com/web-platform-tests/wpt/actions/workflows/safari_technology_preview.yml)
